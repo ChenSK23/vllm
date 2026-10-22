@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.whl   binary
+*.zip   binary
+*.z01   binary
+*.z02   binary
+*.z03   binary
+*.z04   binary

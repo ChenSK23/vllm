@@ -1,0 +1,11 @@
+# 204 个 wheel 走 GitHub Release 分发（单文件 100 MB 限制）
+*.whl
+*.whl.*
+
+# 本地打包产物
+_release/
+*.z01
+*.z02
+*.z03
+*.z04
+*.z05
